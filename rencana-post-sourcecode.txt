@@ -2,4 +2,6 @@
 2. mempost beberapa source code web statis
   - html
   - css
-  - javascript
+  - css grid
+  - css flexbox
+3. mempost beberapa project baru
