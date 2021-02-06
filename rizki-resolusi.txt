@@ -1,0 +1,5 @@
+saya pengguna sec acc, menambahkan file di repo ini
+
+- membuat website dengan framework laravel / django
+- menguasai javascript secara native
+- lagi berusaha untuk mengerti semua keperluan materi java
